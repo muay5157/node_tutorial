@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.0"
+  },
+  "name": "node_tutorial",
+  "version": "1.0.0",
+  "main": "1-intro.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muay5157/node_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muay5157/node_tutorial/issues"
+  },
+  "homepage": "https://github.com/muay5157/node_tutorial#readme",
+  "description": ""
+}
